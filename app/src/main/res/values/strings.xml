@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="note_title_editText">Title</string>
+    <string name="note_content_editText">Content</string>
+    <string name="note_save_menu">Save</string>
+    <string name="main_login_textView">Login</string>
+    <string name="main_username_editText">Username</string>
+    <string name="main_password_editText">Password</string>
+    <string name="main_login_button">Login</string>
+    <string name="note_list_logout_button">Logout</string>
+    <string name="note_list_new_button">New</string>
+</resources>
